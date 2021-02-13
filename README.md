@@ -17,6 +17,6 @@
 <br>
 <div align=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuass&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide=prs)](https://kua.kr)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuass&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide=prs)](https://www.kua.kr)
 
 </div>
