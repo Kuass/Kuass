@@ -6,7 +6,6 @@
 
 ### Full Stack Developer
 
-- Main developer of Korean electric vehicle charger manufacturer.
 - I have expirience to windows application program, web frontend, web backend, linux devops, platform development.
 
 ### Interest
