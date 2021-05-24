@@ -29,7 +29,5 @@
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.kua.kr/)](https://www.kua.kr/)
   [![Email Badge](http://img.shields.io/badge/Kakao%20Mail-e7e600?style=flat-square&logo=kakao&logoColor=black&link=mailto:kua@kakao.com)](mailto:kua@kakao.com)
   [![Twitter Follow](https://img.shields.io/twitter/follow/kua01_?style=flat-square&logo=twitter)](https://twitter.com/kua01_)
-  <br><br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuass&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://www.kua.kr)
 
 </div>
