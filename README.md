@@ -9,14 +9,35 @@
 
 ### Full Stack Developer
 
-- I have expirience to windows application program, web frontend, web backend, linux devops, platform development.
+- I have expirience to windows application program, web frontend, web backend, linux devops, platform(embedded) development.
 - I have been working for a long time in Serial communication, Modbus, and Socket communication.
 
 ### Stack of Technology
 
-- Web : PHP(Laravel or Native)
-- Back-End : Spring Boot, Querydsl, JPA, JPQL, MVC
-- Language : (Main)C#, (Main)Java
+#### Languages
+![C#](https://img.shields.io/badge/-C&sharp;-239120?style=flat-square&logo=c-sharp&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=fff)
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=fff)
+
+#### Framework
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dot-net&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=fff)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=fff)
+
+#### Database
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=fff)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
+
+#### Tools
+
+![Jetbrains Intellij](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=fff)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=fff)
 
 ### Interest
 
