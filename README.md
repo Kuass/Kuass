@@ -52,5 +52,6 @@
   [![Twitter Follow](https://img.shields.io/twitter/follow/kua01_?style=flat-square&logo=twitter)](https://twitter.com/kua01_)
   [![CodersRank](http://img.shields.io/badge/-CodersRank-white?style=flat-square&logo=codersrank&link=https://profile.codersrank.io/user/kuass/)](https://profile.codersrank.io/user/kuass/)
   [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/hoyoung/)](https://www.linkedin.com/in/hoyoung/)
+  [![Baekjoon](http://img.shields.io/badge/-Baekjoon-white?style=flat-square&logo=&logoColor=949494&link=https://www.acmicpc.net/user/kua)](https://www.acmicpc.net/user/kua)
 
 </div>
