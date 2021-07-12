@@ -51,7 +51,6 @@
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.kua.kr/)](https://www.kua.kr/)
   [![Email Badge](http://img.shields.io/badge/Kakao%20Mail-e7e600?style=flat-square&logo=kakao&logoColor=black&link=mailto:kua@kakao.com)](mailto:kua@kakao.com)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/kua01_?style=flat-square&logo=twitter)](https://twitter.com/kua01_)
   [![CodersRank](http://img.shields.io/badge/-CodersRank-f2f2f2?style=flat-square&logo=codersrank&link=https://profile.codersrank.io/user/kuass/)](https://profile.codersrank.io/user/kuass/)
   [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/hoyoung/)](https://www.linkedin.com/in/hoyoung/)
   [![Baekjoon](http://img.shields.io/badge/-Baekjoon-f2f2f2?style=flat-square&logo=&logoColor=949494&link=https://www.acmicpc.net/user/kua)](https://www.acmicpc.net/user/kua)
