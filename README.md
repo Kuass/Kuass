@@ -32,6 +32,7 @@
 
 #### DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/-kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=fff)
 
 #### Tools
