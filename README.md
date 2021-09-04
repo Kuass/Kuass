@@ -7,18 +7,19 @@
 
 </div>
 
-### Full Stack Developer
+### BE and DevOps Developer
 
 - I have expirience to windows application program, web frontend, web backend, linux devops, platform(embedded) development.
-- I have been working for a long time in Serial communication, Modbus, and Socket communication.
+- I have been working for a long time in Serial communication, Modbus(RTU), and Socket communication.
+- I'm interested in micro-service architecture and I know how to deal with it. (Kubernete, AWS, Docker)
 
 ### Stack of Technology
 
 #### Languages
 ![C#](https://img.shields.io/badge/-C&sharp;-239120?style=flat-square&logo=c-sharp&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=fff)
 
 #### Framework
@@ -41,11 +42,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
-
-### Interest
-
-- Asynchrous programming (Multithread, AsyncSocket, MultiChannel and more)
-- Microservices Architecture (Kubernete, AWS, Docker) (at studying)
 
 <br>
 <div align=center>
