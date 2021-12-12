@@ -2,7 +2,7 @@
 
 [![Metrics](https://github.com/Kuass/Kuass/blob/main/github-metrics.svg)](https://www.kua.kr/)
 
-![Kua's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kua)
+[![Kua's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kua)](https://solved.ac/profile/kua)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKuass&count_bg=%2379C83D&title_bg=%23555555&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
