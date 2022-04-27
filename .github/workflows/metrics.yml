@@ -19,4 +19,17 @@ jobs:
           base_indepth: yes
           repositories_affiliations: owner, collaborator, organization_member
           plugin_lines: yes
-          commits_authoring: kua@kakao.com
+          commits_authoring: kua@kakao.com, HoYoung, Kua, Kua_
+          
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_aliases: javascript:JS typescript:TS
+          plugin_languages_ignored: >-
+            dockerfile, makefile, qmake, lex, cmake, gnuplot
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_categories: markup, programming, data, prose
+          plugin_languages_recent_categories: markup, programming, data, prose
+          plugin_languages_recent_days: 120
+          plugin_languages_limit: 6
+          plugin_languages_analysis_timeout: 15
