@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.header.svg
+          filename: metrics.svg
           config_timezone: Asia/Seoul
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
