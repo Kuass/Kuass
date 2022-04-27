@@ -10,11 +10,13 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.21
+      - uses: lowlighter/metrics@lastest
         with:
           filename: metrics.classic.svg
           config_timezone: Asia/Seoul
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          repositories_affiliations: owner, collaborator, organization_member
           plugin_lines: yes
           commits_authoring: kua@kakao.com
