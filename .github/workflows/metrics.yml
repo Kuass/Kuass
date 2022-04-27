@@ -7,18 +7,31 @@ on:
   push: {branches: ["main"]}
 
 jobs:
-  github-metrics:
+  github-metrics-header:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.classic.svg
+          filename: metrics.header.svg
           config_timezone: Asia/Seoul
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           repositories_affiliations: owner, collaborator, organization_member
           plugin_lines: yes
+          commits_authoring: kua@kakao.com, HoYoung, Kua, Kua_
+          
+
+  github-metrics-languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          config_timezone: Asia/Seoul
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          repositories_affiliations: owner, collaborator, organization_member
           commits_authoring: kua@kakao.com, HoYoung, Kua, Kua_
           
           plugin_languages: yes
