@@ -13,6 +13,7 @@
 - I have expirience to windows application program, web frontend, web backend, linux devops, platform(embedded) development.
 - I have been working for a long time in Serial communication, Modbus(RTU), and Socket communication.
 - I'm interested in micro-service architecture and I know how to deal with it. (Kubernete, AWS, Docker)
+- I love Kotlin and came over from Java. Kotlin is a language designed for high-capacity processing. Don't get me wrong!
 
 ### Stack of Technology
 
