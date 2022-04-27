@@ -21,29 +21,67 @@ jobs:
           plugin_lines: yes
           commits_authoring: kua@kakao.com, HoYoung, Kua, Kua_
           
-
-  github-metrics-languages:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.languages.svg
-          config_timezone: Asia/Seoul
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          repositories_affiliations: owner, collaborator, organization_member
-          commits_authoring: kua@kakao.com, HoYoung, Kua, Kua_
-          
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_aliases: javascript:JS, typescript:TS
+#           plugin_languages_aliases: javascript:JS, typescript:TS
           plugin_languages_ignored: >-
-            dockerfile, makefile, qmake, lex, cmake, gnuplot, xml
-          plugin_languages_sections: most-used, recently-used
+            dockerfile, makefile, qmake, lex, cmake, gnuplot, xml, Text, Hack
+          plugin_languages_sections: most-used
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_categories: markup, programming, data, prose
-          plugin_languages_recent_categories: markup, programming, data, prose
-          plugin_languages_recent_load: 1000
-          plugin_languages_recent_days: 120
+#           plugin_languages_recent_categories: markup, programming, data, prose
+#           plugin_languages_recent_load: 1000
+#           plugin_languages_recent_days: 120
           plugin_languages_limit: 6
           plugin_languages_analysis_timeout: 20
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          
+          plugin_rss: yes
+          plugin_rss_source: https://www.kua.kr/rss
+          plugin_rss_limit: 4
+          
+#   github-metrics-header:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: lowlighter/metrics@latest
+#         with:
+#           filename: metrics.header.svg
+#           config_timezone: Asia/Seoul
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: header, activity, community, repositories, metadata
+#           base_indepth: yes
+#           repositories_affiliations: owner, collaborator, organization_member
+#           plugin_lines: yes
+#           commits_authoring: kua@kakao.com, HoYoung, Kua, Kua_
+          
+
+#   github-metrics-languages:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: lowlighter/metrics@latest
+#         with:
+#           filename: metrics.languages.svg
+#           config_timezone: Asia/Seoul
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: ""
+#           repositories_affiliations: owner, collaborator, organization_member
+#           commits_authoring: kua@kakao.com, HoYoung, Kua, Kua_
+          
+#           plugin_languages: yes
+#           plugin_languages_indepth: yes
+#           plugin_languages_aliases: javascript:JS, typescript:TS
+#           plugin_languages_ignored: >-
+#             dockerfile, makefile, qmake, lex, cmake, gnuplot, xml
+#           plugin_languages_sections: most-used, recently-used
+#           plugin_languages_details: lines, bytes-size, percentage
+#           plugin_languages_categories: markup, programming, data, prose
+#           plugin_languages_recent_categories: markup, programming, data, prose
+#           plugin_languages_recent_load: 1000
+#           plugin_languages_recent_days: 120
+#           plugin_languages_limit: 6
+#           plugin_languages_analysis_timeout: 20
