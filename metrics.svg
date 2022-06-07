@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -226,15 +226,28 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.13425100215068" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="168.13425100215068" y="0" width="111.723572578182" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="279.85782358033265" y="0" width="84.11735568317954" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="363.9751792635122" y="0" width="59.69966339131275" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="423.674842654825" y="0" width="23.79673076527439" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="447.47157342009933" y="0" width="12.528426579900646" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="406.91806158072154" height="8" fill="#00a1df"/>
+                    <rect mask="url(#languages-bar)" x="406.91806158072154" y="0" width="19.945159621321288" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="426.86322120204284" y="0" width="13.253364351726349" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="440.1165855537692" y="0" width="9.978538435949096" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="450.0951239897183" y="0" width="7.081955690656109" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="457.1770796803744" y="0" width="2.822920319625617" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#00a1df" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Mule
+                            </div>
+                            <small>
+                                <div>97k lines</div>
+                                <div>4.71 MB</div>
+                                <div>88.46%</div>
+                            </small>
+                        </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -245,7 +258,7 @@
                             <small>
                                 <div>6.71k lines</div>
                                 <div>230 kB</div>
-                                <div>36.55%</div>
+                                <div>4.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -258,7 +271,7 @@
                             <small>
                                 <div>5.09k lines</div>
                                 <div>153 kB</div>
-                                <div>24.29%</div>
+                                <div>2.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -271,7 +284,7 @@
                             <small>
                                 <div>4.17k lines</div>
                                 <div>115 kB</div>
-                                <div>18.29%</div>
+                                <div>2.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,7 +297,7 @@
                             <small>
                                 <div>2.69k lines</div>
                                 <div>82 kB</div>
-                                <div>12.98%</div>
+                                <div>1.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -297,20 +310,7 @@
                             <small>
                                 <div>871 lines</div>
                                 <div>32.6 kB</div>
-                                <div>5.17%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Python
-                            </div>
-                            <small>
-                                <div>504 lines</div>
-                                <div>17.2 kB</div>
-                                <div>2.72%</div>
+                                <div>0.61%</div>
                             </small>
                         </div>
                     </section>
@@ -2393,7 +2393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ThePBone/GalaxyBudsClient</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial Galaxy Buds Manager for Windows and Linux</div>
@@ -2446,7 +2446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Genymobile/scrcpy</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Display and control your Android device</div>
@@ -2499,7 +2499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hyeon9698/upbit_bot</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">비트코인, 알트코인 자동 매매 프로그램 (업비트용), 변동성 돌파 전략을 이용한 가상화폐, 업비트 자동 매매 프로그램</div>
@@ -2552,7 +2552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Hacksore/bluelinky</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An unofficial nodejs API wrapper for Hyundai bluelink and Kia UVO</div>
@@ -2602,7 +2602,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jun 2022, 09:14:25 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 7 Jun 2022, 21:06:25 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
