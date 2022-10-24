@@ -64,6 +64,6 @@
   [![Baekjoon](http://img.shields.io/badge/-Baekjoon-f2f2f2?style=flat-square&logo=&logoColor=949494&link=https://www.acmicpc.net/user/kua)](https://www.acmicpc.net/user/kua)
   [![solved.ac](http://img.shields.io/badge/-solved.ac-17CE3A?style=flat-square&link=https://solved.ac/profile/kua)](https://www.acmicpc.net/user/kua)
   
-이메일은 [kua@kua.kr](mailto:kua@kua.kr) 또는 [kua@kakao.com](mailto:kua@kakao.com) 으로 보내주세요.
+이메일은 [kua@kua.kr](mailto:kua@kua.kr) 또는 [kua@kua.sh](mailto:kua@kua.sh) 으로 보내주세요.
 <!--   [![Email Badge](http://img.shields.io/badge/Kakao%20Mail-e7e600?style=flat-square&logo=kakao&logoColor=black&link=mailto:kua@kakao.com)](mailto:kua@kakao.com) -->
 </div>
