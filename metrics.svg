@@ -2387,7 +2387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nomomo/Naver-Cafe-Twitch-Clip-Loader</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">UserScript that makes it easy to watch Twitch clips on Naver Cafe / 네이버 카페에서 트위치 클립을 쉽게 볼 수 있도록 해주는 UserScript</div>
@@ -2440,7 +2440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samchon/typescript-json</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Super-fast Runtime validator (type checker) with only one line</div>
@@ -2493,7 +2493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>9beach/hanspell</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">(주)다음과 부산대학교 인공지능연구실/(주)나라인포테크의 웹 서비스를 이용한 한글 맞춤법 검사기.</div>
@@ -2546,7 +2546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FastForwardTeam/FastForward</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.</div>
@@ -2580,7 +2580,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        561
+                                        562
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2596,7 +2596,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Nov 2022, 09:20:25 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 8 Nov 2022, 21:07:51 (timezone Asia/Seoul) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
