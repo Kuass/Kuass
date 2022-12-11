@@ -348,8 +348,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">내가 아이폰을 사용하지 않기로 결정한 이유</div>
-                                <div class="date">29 Nov 2022</div>
+                                <div class="title">스포티파이 Car Thing (카띵) 장착 후기 | 선 감추기, 멀티 시거잭</div>
+                                <div class="date">20 Nov 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -357,8 +357,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">스포티파이 Car Thing (카띵) 장착 후기 | 선 감추기, 멀티 시거잭</div>
-                                <div class="date">20 Nov 2022</div>
+                                <div class="title">메이튼 우드 몰딩 장착 후기(기아 디 올 뉴 니로 SG2/수동 기어)</div>
+                                <div class="date">17 Nov 2022</div>
                             </div>
                         </div>
                     </section>
@@ -2613,7 +2613,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Dec 2022, 09:19:20 (timezone Asia/Seoul) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 11 Dec 2022, 21:06:03 (timezone Asia/Seoul) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
