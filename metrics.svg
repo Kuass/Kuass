@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2385,7 +2385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hyunbinseo/holidays-kr</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">대한민국 공휴일을 가공한 자료</div>
@@ -2432,7 +2432,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Baw-Appie/SafeTransaction</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2533,7 +2533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>barbajs/barba</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create badass, fluid and smooth transitions between your website’s pages.</div>
@@ -2583,7 +2583,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2023, 09:18:25 (timezone Asia/Seoul) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 28 Feb 2023, 21:06:59 (timezone Asia/Seoul) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
