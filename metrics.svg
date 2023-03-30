@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -220,18 +220,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 10.7mb of code in 1553 edited files across 720 commits</small>
+                <small>estimation from 10.7mb of code in 1561 edited files across 721 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="126.27701024880785" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="126.27701024880785" y="0" width="95.20268568463152" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="221.47969593343936" y="0" width="93.5752162425771" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="315.05491217601644" y="0" width="63.767565219302185" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="378.82247739531863" y="0" width="51.275007141879136" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="430.0974845371978" y="0" width="29.902515462802217" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="127.77979897586397" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="127.77979897586397" y="0" width="94.77397826193044" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="222.55377723779443" y="0" width="93.15383748108984" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="315.70761471888426" y="0" width="63.48041335651073" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="379.18802807539504" y="0" width="51.0441105447643" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="430.23213862015933" y="0" width="29.76786137984071" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -243,9 +243,9 @@
                                 Kotlin
                             </div>
                             <small>
-                                <div>5.55k lines</div>
-                                <div>162 kB</div>
-                                <div>27.45%</div>
+                                <div>5.65k lines</div>
+                                <div>165 kB</div>
+                                <div>27.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -258,7 +258,7 @@
                             <small>
                                 <div>4.24k lines</div>
                                 <div>122 kB</div>
-                                <div>20.7%</div>
+                                <div>20.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -271,7 +271,7 @@
                             <small>
                                 <div>3.53k lines</div>
                                 <div>120 kB</div>
-                                <div>20.34%</div>
+                                <div>20.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,7 +284,7 @@
                             <small>
                                 <div>2.69k lines</div>
                                 <div>82 kB</div>
-                                <div>13.86%</div>
+                                <div>13.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -297,7 +297,7 @@
                             <small>
                                 <div>2.68k lines</div>
                                 <div>65.9 kB</div>
-                                <div>11.15%</div>
+                                <div>11.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -310,7 +310,7 @@
                             <small>
                                 <div>961 lines</div>
                                 <div>38.4 kB</div>
-                                <div>6.5%</div>
+                                <div>6.47%</div>
                             </small>
                         </div>
                     </section>
@@ -2448,7 +2448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>File-New-Project/EarTrumpet</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">EarTrumpet - Volume Control for Windows</div>
@@ -2599,7 +2599,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2023, 09:16:58 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Mar 2023, 21:07:03 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
