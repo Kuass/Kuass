@@ -20,17 +20,11 @@
 #### Languages
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C&sharp;-239120?style=flat-square&logo=c-sharp&logoColor=fff)
-![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAB8UlEQVRIidWUO2hUURCGvzFuMMmS6IIiKCoLPiAogoVo4RMEFdHGWCk2FjaWYmWvoL2IhVjZGBSLFBKLGJsF0WAKQQkhgoorIboa8fVZ7FkIa9a9iyvowOHeOfPPP/+ce+bCv2jq1r9JnlMHs+IXtEi+BBgEXrcqLAv5DnVSHVG71aPqVXV3O8hPqN/U+2pevaA+UZe3QTuob9VxtSv50+rxLLlZv0EJeBgRs8kfBY60LrWBqQW1pK5I/hr1VdsKJNJedSC9r1dP/inhaXVYvaKuU6MBrkPtV++pl+vj8yalxOvAIaAHmABmgPe1MFBO+xcjYkbdDDyIiHwrXRxQb6QjKaZVUFepW+qwZ9WRzOQp6bz6Sf2ovkirbNVeqnsTbpc6qhbrORoe0Zwim4AzwE2qR/MD6AK+R8SQ2gH0R8RYS+rnFLiWFH9Qp9TZ5FfUw83yf+lA7QG2AeWIeKzmgH3AhoR/A0wCpdrgqZ0R8SWr4nH1mbo9kTfD59Q7jeIL59l7SvV6DgB96nNgKiI+J8JFwFJgber0GHArxfIRUZlL1mh49gAHgY2JqA/IA1+BaaozMAY8Am5HxIS6E9gfEeeadV0r0vRHqK5UT6lD6iW1sx7zu0nuBorAamAZsBgoAL3p2Q1UgGHgbkS8y6T8v7Of7Bp0kImN/9sAAAAASUVORK5CYII=&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
 
 #### Framework
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=fff)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=fff)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=fff)
-![NestJs](https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=fff)
-![React](https://img.shields.io/badge/-React-262a31?style=flat-square&logo=react&logoColor=61DAFB)
 ![Ktor](https://img.shields.io/badge/-Ktor-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABtElEQVQ4jYXRsWsTYRjH8e/7Ju/lrmjTxZwOl0Ar1T9AcBG6WZsODlIEB6FQiV20unQpkk2s4ODS3NBVhxab2gj5A8TF2aGImN4Fi1pBetf0ROLjYtOEtPYHD7w88Hnf5+WB7qzJCFWpsS5TnBDdOVXFA54jTOo2TwdfyLWTYVU8BB8oaoHBXxTcPfwrz47HmjUZQagAE/8QuRacbZF39/EfLByNFVWpIUweoGwYYj6843QiDCUKJ4qDc1GztPy+XO+l6zKlX8nnoZcio8si56dXRGsjSmlRSovRlixcnmt8vLM63jvqdbVyKmH2TEzgxpBNQORPp9rym6zdKujUph/cnx4/hMDuLVV3I0q5mCCbqL7/GPMdx24UBpzQj8sXr/as4+1DVc/vUxqIokAr3cUUlrWD42yRscKCbbYrspi60Xf97UuPJnLyzc86iWfMDhnzg7Fh4YL7E8v6QjodAfK6fy7g08xqkfRmxbEbnuNsYVnBIVKyQZu5IyFAeG+m6NiNSsYOPTuzffDSG+Cumqd5LATYK48Wjfm6ZNK7eZAaMKvmaf7PdCKLqZvyhA15zHB3/y+pgqtyBfgCAAAAAABJRU5ErkJggg==&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=fff)
 
@@ -48,6 +42,7 @@
 
 #### Tools
 ![Jetbrains Intellij](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=fff)
+![Atlassian](https://img.shields.io/badge/-Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
