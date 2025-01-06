@@ -2,9 +2,9 @@
 
 [![Metrics](https://github.com/Kuass/Kuass/blob/main/metrics.svg)](https://www.kua.kr/)
 
-[![Kua's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kua)](https://www.acmicpc.net/user/kua)
+<!-- [![Kua's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kua)](https://www.acmicpc.net/user/kua) -->
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKuass&count_bg=%2379C83D&title_bg=%23555555&icon=hey.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKuass&count_bg=%2379C83D&title_bg=%23555555&icon=hey.svg&icon_color=%23E7E7E7&title=hello!&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
@@ -54,11 +54,9 @@
 <div align=center>
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.kua.kr/)](https://www.kua.kr/)
-  [![CodersRank](http://img.shields.io/badge/-CodersRank-f2f2f2?style=flat-square&logo=codersrank&link=https://profile.codersrank.io/user/kuass/)](https://profile.codersrank.io/user/kuass/)
   [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/hoyoung/)](https://www.linkedin.com/in/hoyoung/)
   [![Baekjoon](http://img.shields.io/badge/-Baekjoon-f2f2f2?style=flat-square&logo=&logoColor=949494&link=https://www.acmicpc.net/user/kua)](https://www.acmicpc.net/user/kua)
   [![solved.ac](http://img.shields.io/badge/-solved.ac-17CE3A?style=flat-square&link=https://solved.ac/profile/kua)](https://www.acmicpc.net/user/kua)
   
-이메일은 [kua@kua.kr](mailto:kua@kua.kr) 또는 [kua@kua.sh](mailto:kua@kua.sh) 으로 보내주세요.
 <!--   [![Email Badge](http://img.shields.io/badge/Kakao%20Mail-e7e600?style=flat-square&logo=kakao&logoColor=black&link=mailto:kua@kakao.com)](mailto:kua@kakao.com) -->
 </div>
