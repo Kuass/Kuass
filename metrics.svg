@@ -2344,7 +2344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GLips/Figma-Context-MCP</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MCP server to provide Figma layout information to AI coding agents like Cursor</div>
@@ -2397,7 +2397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bernaferrari/FigmaToCode</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.</div>
@@ -2450,7 +2450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ivLis-Studio/lyrics-plus</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Brand-New Spicetify Lyrics Plugin with AI-Based translate and beautiful design</div>
@@ -2537,7 +2537,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        412
+                                        414
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2553,7 +2553,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Dec 2025, 09:26:07 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Dec 2025, 21:11:02 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
