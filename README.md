@@ -4,7 +4,7 @@
 
 </div>
 
-## Hey there 👋
+## Hey there 👋 I'm Kua (Hoyoung Kim)
 
 Backend & DevOps engineer based in **Seoul, Republic of Korea**.  
 From industrial embedded systems to cloud-native MSA — I've worked across the full stack of infrastructure.  
